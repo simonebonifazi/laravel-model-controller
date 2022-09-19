@@ -16,7 +16,13 @@
 </head>
 
 <body>
+    <header>
 
+    </header>
+    <main>
+        @yield('main-content')
+    </main>
+    <footer></footer>
 </body>
 
 </html>
