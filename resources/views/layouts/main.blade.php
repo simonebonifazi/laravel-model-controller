@@ -17,7 +17,7 @@
 
 <body>
     <header>
-        <h1 class="bg-success"> Best Movies </h1>
+        <h1 class="bg-success p-4"> Best Movies </h1>
     </header>
     <main>
         @yield('main-content')
