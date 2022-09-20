@@ -21,6 +21,6 @@
     <h4> nessun film da visualizzare... </h4>
     @endforelse
 </div>
-
-
 @endsection
+
+<!-- //! da trasformare in index.blade.php -->
